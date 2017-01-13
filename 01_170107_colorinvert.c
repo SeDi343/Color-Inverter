@@ -29,7 +29,7 @@
 #include "myHeader.h"
 
 extern void helpdesk_1(void);
-extern int removecomment (void);
+extern int removecomment(void);
 
 int main (int argc, char *argv[])
 {
