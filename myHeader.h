@@ -83,7 +83,7 @@ void helpdesk_1(void);
 void clear(void);
 void clearNoHelp(void);
 unsigned int clearString(char *input);
-int removecomment (void);
+int removecomment(void);
 
 /*------------------------------------------------------------------*/
 /* F U N C T I O N   D E F I N I T I O N                            */
@@ -150,7 +150,7 @@ void helpdesk_1(void)
 #endif
 }
 
-int removecomment (void)
+int removecomment(void)
 {
     char comment[500];
     
